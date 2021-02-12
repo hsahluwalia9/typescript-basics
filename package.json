@@ -1,0 +1,23 @@
+{
+  "name": "typescript-basics",
+  "version": "1.0.0",
+  "description": "## Background:",
+  "main": "test.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsahluwalia9/typescript-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hsahluwalia9/typescript-basics/issues"
+  },
+  "homepage": "https://github.com/hsahluwalia9/typescript-basics#readme"
+}
